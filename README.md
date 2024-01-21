@@ -2,6 +2,9 @@
 
 Explore the world of movies with this interactive Movie Recommender System! Leveraging advanced recommendation algorithms, this application suggests personalized movie recommendations based on user preferences, ensuring an enjoyable and tailored viewing experience.
 
+<img src="SS of Model.png" alt="Live Model Interface">
+
+
 #
 
 How to run the project:
